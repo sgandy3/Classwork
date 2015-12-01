@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ClassExercise1016\ClassExercise1016\bin\Debug\ClassExercise1016.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ClassExercise1016\ClassExercise1016\bin\Debug\ClassExercise1016.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ClassExercise1016\ClassExercise1016\bin\Debug\ClassExercise1016.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ClassExercise1016\ClassExercise1016\obj\Debug\ClassExercise1016.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ClassExercise1016\ClassExercise1016\obj\Debug\ClassExercise1016.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ClassExercise1016\ClassExercise1016\obj\Debug\ClassExercise1016.pdb

@@ -1,0 +1,5 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalSumOf Prime\CodeEvalSumOf Prime\bin\Debug\CodeEvalSumOf Prime.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\CodeEvalSumOf Prime\CodeEvalSumOf Prime\bin\Debug\CodeEvalSumOf Prime.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\CodeEvalSumOf Prime\CodeEvalSumOf Prime\bin\Debug\CodeEvalSumOf Prime.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\CodeEvalSumOf Prime\CodeEvalSumOf Prime\obj\Debug\CodeEvalSumOf Prime.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\CodeEvalSumOf Prime\CodeEvalSumOf Prime\obj\Debug\CodeEvalSumOf Prime.pdb

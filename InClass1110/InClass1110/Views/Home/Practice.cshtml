@@ -1,0 +1,74 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Practice</h2>
+
+<p>This is a paragraph</p>
+<p>This is another paragraph</p>
+
+<ul>
+    <li class="intro">one</li>
+    <li>two</li>
+    <li>three</li>
+</ul>
+<button>Start Animation</button>
+<br />
+<div style="background:#b6ff00;height:100px;width:100px;position:relative"></div>
+<script>
+  // $("p").slideDown();
+   // $("#firstParagraph").hide(); //to select id use #
+    $(".intro").toggle(1250); //to select class use '.'
+    
+</script>
+
+<!-- <script>
+    $(document).ready(function () {
+        alert("woohoo");
+    });
+</script> -->
+
+<!--<script>
+    $("p").click(function(){
+    alert("Hi");
+    });
+</script> -->
+
+<script>
+    $(document).ready(function () {
+        $("button").text("I'm a button!");
+        alert($("button".text()));
+
+        $("button").click(function(){
+            $("div").animate({left: '250px'});
+        });
+    });
+</script>
+
+<div id="words">
+    <p>I am tired and sleepy</p>
+</div>
+
+<script>
+    $("#words").append("aaawawwwww");
+    $("#words").empty();
+</script>
+
+<style>
+    .bigText{
+        font-size:60px;
+        font-weight:bold;
+    }
+</style>
+
+<p id="firstParagraph">First paragraph</p>
+<p>Second paragraph</p>
+<button>Make Text big!</button>
+
+<script>
+    $(document).ready(function () {
+        $("button").click(function () {
+            $("p").addClass("bigText");
+        });
+    });
+</script>

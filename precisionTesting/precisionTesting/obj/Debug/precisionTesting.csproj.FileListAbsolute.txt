@@ -1,0 +1,5 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\precisionTesting\precisionTesting\bin\Debug\precisionTesting.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\precisionTesting\precisionTesting\bin\Debug\precisionTesting.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\precisionTesting\precisionTesting\bin\Debug\precisionTesting.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\precisionTesting\precisionTesting\obj\Debug\precisionTesting.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\precisionTesting\precisionTesting\obj\Debug\precisionTesting.pdb

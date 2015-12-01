@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StudentScore1001\StudentScore1001\bin\Debug\StudentScore1001.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StudentScore1001\StudentScore1001\bin\Debug\StudentScore1001.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StudentScore1001\StudentScore1001\bin\Debug\StudentScore1001.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StudentScore1001\StudentScore1001\obj\Debug\StudentScore1001.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StudentScore1001\StudentScore1001\obj\Debug\StudentScore1001.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StudentScore1001\StudentScore1001\obj\Debug\StudentScore1001.pdb

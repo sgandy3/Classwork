@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\loopnumbercount\loopnumbercount\bin\Debug\loopnumbercount.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\loopnumbercount\loopnumbercount\bin\Debug\loopnumbercount.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\loopnumbercount\loopnumbercount\bin\Debug\loopnumbercount.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\loopnumbercount\loopnumbercount\obj\Debug\loopnumbercount.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\loopnumbercount\loopnumbercount\obj\Debug\loopnumbercount.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\loopnumbercount\loopnumbercount\obj\Debug\loopnumbercount.pdb

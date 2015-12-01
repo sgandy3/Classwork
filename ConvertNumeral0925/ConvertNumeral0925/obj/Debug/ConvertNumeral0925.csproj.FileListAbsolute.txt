@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConvertNumeral0925\ConvertNumeral0925\bin\Debug\ConvertNumeral0925.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConvertNumeral0925\ConvertNumeral0925\bin\Debug\ConvertNumeral0925.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConvertNumeral0925\ConvertNumeral0925\bin\Debug\ConvertNumeral0925.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConvertNumeral0925\ConvertNumeral0925\obj\Debug\ConvertNumeral0925.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConvertNumeral0925\ConvertNumeral0925\obj\Debug\ConvertNumeral0925.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConvertNumeral0925\ConvertNumeral0925\obj\Debug\ConvertNumeral0925.pdb

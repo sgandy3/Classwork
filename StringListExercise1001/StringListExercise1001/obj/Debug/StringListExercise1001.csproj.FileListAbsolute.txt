@@ -1,0 +1,5 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StringListExercise1001\StringListExercise1001\bin\Debug\StringListExercise1001.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StringListExercise1001\StringListExercise1001\bin\Debug\StringListExercise1001.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StringListExercise1001\StringListExercise1001\bin\Debug\StringListExercise1001.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StringListExercise1001\StringListExercise1001\obj\Debug\StringListExercise1001.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StringListExercise1001\StringListExercise1001\obj\Debug\StringListExercise1001.pdb

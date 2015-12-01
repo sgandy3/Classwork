@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Ch24prob1book0930\Ch24prob1book0930\bin\Debug\Ch24prob1book0930.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Ch24prob1book0930\Ch24prob1book0930\bin\Debug\Ch24prob1book0930.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Ch24prob1book0930\Ch24prob1book0930\bin\Debug\Ch24prob1book0930.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Ch24prob1book0930\Ch24prob1book0930\obj\Debug\Ch24prob1book0930.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Ch24prob1book0930\Ch24prob1book0930\obj\Debug\Ch24prob1book0930.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Ch24prob1book0930\Ch24prob1book0930\obj\Debug\Ch24prob1book0930.pdb

@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\InClass1104\InClass1104\bin\Debug\InClass1104.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\InClass1104\InClass1104\bin\Debug\InClass1104.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\InClass1104\InClass1104\bin\Debug\InClass1104.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\InClass1104\InClass1104\obj\Debug\InClass1104.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\InClass1104\InClass1104\obj\Debug\InClass1104.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\InClass1104\InClass1104\obj\Debug\InClass1104.pdb

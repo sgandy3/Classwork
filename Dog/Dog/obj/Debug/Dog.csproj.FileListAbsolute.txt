@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Dog\Dog\bin\Debug\Dog.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Dog\Dog\bin\Debug\Dog.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Dog\Dog\bin\Debug\Dog.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Dog\Dog\obj\Debug\Dog.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Dog\Dog\obj\Debug\Dog.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Dog\Dog\obj\Debug\Dog.pdb

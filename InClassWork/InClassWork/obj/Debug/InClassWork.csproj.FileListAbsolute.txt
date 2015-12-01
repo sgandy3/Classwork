@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\InClassWork\InClassWork\bin\Debug\InClassWork.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\InClassWork\InClassWork\obj\Debug\InClassWork.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\InClassWork\InClassWork\bin\Debug\InClassWork.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\InClassWork\InClassWork\bin\Debug\InClassWork.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\InClassWork\InClassWork\obj\Debug\InClassWork.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\InClassWork\InClassWork\obj\Debug\InClassWork.pdb

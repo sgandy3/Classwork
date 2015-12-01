@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\InClass1023\InClass1023\bin\Debug\InClass1023.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\InClass1023\InClass1023\bin\Debug\InClass1023.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\InClass1023\InClass1023\bin\Debug\InClass1023.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\InClass1023\InClass1023\obj\Debug\InClass1023.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\InClass1023\InClass1023\obj\Debug\InClass1023.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\InClass1023\InClass1023\obj\Debug\InClass1023.pdb

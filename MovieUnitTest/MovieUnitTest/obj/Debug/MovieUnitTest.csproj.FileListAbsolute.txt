@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MovieUnitTest\MovieUnitTest\bin\Debug\MovieUnitTest.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MovieUnitTest\MovieUnitTest\bin\Debug\MovieUnitTest.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MovieUnitTest\MovieUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MovieUnitTest\MovieUnitTest\obj\Debug\MovieUnitTest.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MovieUnitTest\MovieUnitTest\obj\Debug\MovieUnitTest.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MovieUnitTest\MovieUnitTest\obj\Debug\MovieUnitTest.pdb

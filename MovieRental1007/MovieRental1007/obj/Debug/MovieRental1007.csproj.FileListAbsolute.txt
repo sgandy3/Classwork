@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MovieRental1007\MovieRental1007\bin\Debug\MovieRental1007.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MovieRental1007\MovieRental1007\bin\Debug\MovieRental1007.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MovieRental1007\MovieRental1007\bin\Debug\MovieRental1007.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MovieRental1007\MovieRental1007\obj\Debug\MovieRental1007.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MovieRental1007\MovieRental1007\obj\Debug\MovieRental1007.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MovieRental1007\MovieRental1007\obj\Debug\MovieRental1007.pdb

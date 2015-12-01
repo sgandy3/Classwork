@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\InClassPractice1002\InClassPractice1002\bin\Debug\InClassPractice1002.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\InClassPractice1002\InClassPractice1002\bin\Debug\InClassPractice1002.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\InClassPractice1002\InClassPractice1002\bin\Debug\InClassPractice1002.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\InClassPractice1002\InClassPractice1002\obj\Debug\InClassPractice1002.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\InClassPractice1002\InClassPractice1002\obj\Debug\InClassPractice1002.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\InClassPractice1002\InClassPractice1002\obj\Debug\InClassPractice1002.pdb

@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\wordreverse0922\wordreverse0922\bin\Debug\wordreverse0922.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\wordreverse0922\wordreverse0922\bin\Debug\wordreverse0922.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\wordreverse0922\wordreverse0922\bin\Debug\wordreverse0922.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\wordreverse0922\wordreverse0922\obj\Debug\wordreverse0922.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\wordreverse0922\wordreverse0922\obj\Debug\wordreverse0922.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\wordreverse0922\wordreverse0922\obj\Debug\wordreverse0922.pdb

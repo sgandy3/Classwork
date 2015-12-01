@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FunnySentenceRandomizer\FunnySentenceRandomizer\bin\Debug\FunnySentenceRandomizer.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FunnySentenceRandomizer\FunnySentenceRandomizer\bin\Debug\FunnySentenceRandomizer.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FunnySentenceRandomizer\FunnySentenceRandomizer\bin\Debug\FunnySentenceRandomizer.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FunnySentenceRandomizer\FunnySentenceRandomizer\obj\Debug\FunnySentenceRandomizer.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FunnySentenceRandomizer\FunnySentenceRandomizer\obj\Debug\FunnySentenceRandomizer.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FunnySentenceRandomizer\FunnySentenceRandomizer\obj\Debug\FunnySentenceRandomizer.pdb

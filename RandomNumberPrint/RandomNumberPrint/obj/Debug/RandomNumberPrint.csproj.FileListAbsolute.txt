@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\RandomNumberPrint\RandomNumberPrint\bin\Debug\RandomNumberPrint.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\RandomNumberPrint\RandomNumberPrint\bin\Debug\RandomNumberPrint.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\RandomNumberPrint\RandomNumberPrint\bin\Debug\RandomNumberPrint.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\RandomNumberPrint\RandomNumberPrint\obj\Debug\RandomNumberPrint.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\RandomNumberPrint\RandomNumberPrint\obj\Debug\RandomNumberPrint.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\RandomNumberPrint\RandomNumberPrint\obj\Debug\RandomNumberPrint.pdb

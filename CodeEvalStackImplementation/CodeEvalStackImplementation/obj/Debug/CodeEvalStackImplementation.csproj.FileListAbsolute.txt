@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalStackImplementation\CodeEvalStackImplementation\bin\Debug\CodeEvalStackImplementation.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalStackImplementation\CodeEvalStackImplementation\bin\Debug\CodeEvalStackImplementation.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalStackImplementation\CodeEvalStackImplementation\bin\Debug\CodeEvalStackImplementation.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalStackImplementation\CodeEvalStackImplementation\obj\Debug\CodeEvalStackImplementation.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalStackImplementation\CodeEvalStackImplementation\obj\Debug\CodeEvalStackImplementation.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalStackImplementation\CodeEvalStackImplementation\obj\Debug\CodeEvalStackImplementation.pdb

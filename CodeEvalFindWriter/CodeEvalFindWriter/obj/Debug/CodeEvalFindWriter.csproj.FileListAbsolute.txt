@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalFindWriter\CodeEvalFindWriter\bin\Debug\CodeEvalFindWriter.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalFindWriter\CodeEvalFindWriter\bin\Debug\CodeEvalFindWriter.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalFindWriter\CodeEvalFindWriter\bin\Debug\CodeEvalFindWriter.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalFindWriter\CodeEvalFindWriter\obj\Debug\CodeEvalFindWriter.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalFindWriter\CodeEvalFindWriter\obj\Debug\CodeEvalFindWriter.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalFindWriter\CodeEvalFindWriter\obj\Debug\CodeEvalFindWriter.pdb

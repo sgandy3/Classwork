@@ -1,0 +1,47 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div id="myDiv"></div>
+<img id="cow"
+     src="http://www.saawinternational.org/cow2.jpg "
+     onmouseover="swapImage()" onmouseout="swapImage()"
+     class="ing-responsive" width="200" />
+
+<button onmouseover="changeDiv()">Click Me</button>
+<script>
+    function changeDiv()
+    {
+        var div = document.getElementById("myDiv");
+        div.innerHTML = "Hello from JavaScript";
+    }
+
+</script>
+<script>
+    function swapImage()
+    {
+        var imgEl = document.getElementById("cow");
+        if (imgEl.src == "http://www.saawinternational.org/cow2.jpg")
+        {
+            imgEl.src = "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSu_NbjT_DqoSbgcX5TVB8l49we_KTIdv6c8NJ_4KeLUQye-mDQQQ"
+        }
+        else
+        {
+            imgEl.src = "http://www.saawinternational.org/cow2.jpg"
+        }
+    }
+</script>
+<div class="row">
+    <div class="col-md-1">.col-md-1</div>
+    <div class="col-md-1">.col-md-1</div>
+    <div class="col-md-1">.col-md-1</div>
+    <div class="col-md-1">.col-md-1</div>
+    <div class="col-md-1">.col-md-1</div>
+    <div class="col-md-1">.col-md-1</div>
+    <div class="col-md-1">.col-md-1</div>
+    <div class="col-md-1">.col-md-1</div>
+    <div class="col-md-1">.col-md-1</div>
+    <div class="col-md-1">.col-md-1</div>
+    <div class="col-md-1">.col-md-1</div>
+    <div class="col-md-1">.col-md-1</div>
+</div>

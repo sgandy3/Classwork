@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StringCase0921\StringCase0921\bin\Debug\StringCase0921.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StringCase0921\StringCase0921\bin\Debug\StringCase0921.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StringCase0921\StringCase0921\bin\Debug\StringCase0921.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StringCase0921\StringCase0921\obj\Debug\StringCase0921.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StringCase0921\StringCase0921\obj\Debug\StringCase0921.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\StringCase0921\StringCase0921\obj\Debug\StringCase0921.csprojResolveAssemblyReference.cache

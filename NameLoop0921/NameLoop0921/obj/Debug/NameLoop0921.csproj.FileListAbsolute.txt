@@ -1,0 +1,5 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\NameLoop0921\NameLoop0921\bin\Debug\NameLoop0921.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\NameLoop0921\NameLoop0921\bin\Debug\NameLoop0921.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\NameLoop0921\NameLoop0921\bin\Debug\NameLoop0921.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\NameLoop0921\NameLoop0921\obj\Debug\NameLoop0921.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\NameLoop0921\NameLoop0921\obj\Debug\NameLoop0921.pdb

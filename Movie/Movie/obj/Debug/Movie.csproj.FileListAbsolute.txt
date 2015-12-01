@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Movie\Movie\bin\Debug\Movie.exe.config
+C:\Users\WeCanCodeIT\documents\visual studio 2015\Projects\Movie\Movie\bin\Debug\Movie.exe
+C:\Users\WeCanCodeIT\documents\visual studio 2015\Projects\Movie\Movie\bin\Debug\Movie.pdb
+C:\Users\WeCanCodeIT\documents\visual studio 2015\Projects\Movie\Movie\obj\Debug\Movie.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\documents\visual studio 2015\Projects\Movie\Movie\obj\Debug\Movie.exe
+C:\Users\WeCanCodeIT\documents\visual studio 2015\Projects\Movie\Movie\obj\Debug\Movie.pdb

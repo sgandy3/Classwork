@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\SayHi0923\SayHi0923\bin\Debug\SayHi0923.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\SayHi0923\SayHi0923\obj\Debug\SayHi0923.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\SayHi0923\SayHi0923\bin\Debug\SayHi0923.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\SayHi0923\SayHi0923\bin\Debug\SayHi0923.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\SayHi0923\SayHi0923\obj\Debug\SayHi0923.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\SayHi0923\SayHi0923\obj\Debug\SayHi0923.pdb

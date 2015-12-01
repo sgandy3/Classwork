@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\InClassWork0924\InClassWork0924\bin\Debug\InClassWork0924.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\InClassWork0924\InClassWork0924\obj\Debug\InClassWork0924.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\InClassWork0924\InClassWork0924\bin\Debug\InClassWork0924.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\InClassWork0924\InClassWork0924\bin\Debug\InClassWork0924.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\InClassWork0924\InClassWork0924\obj\Debug\InClassWork0924.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\InClassWork0924\InClassWork0924\obj\Debug\InClassWork0924.pdb

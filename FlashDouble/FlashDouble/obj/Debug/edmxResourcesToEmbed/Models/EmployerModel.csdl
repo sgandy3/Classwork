@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="JobPostingModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="CompanyProfile">
+    <Key>
+      <PropertyRef Name="CompanyProfileID" />
+    </Key>
+    <Property Name="CompanyProfileID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CompanyName" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="CompanyLogo" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="ContactFirstName" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="ContactLastName" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="PhoneNumber" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="Email" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="Website" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="Video" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <NavigationProperty Name="JobPosts" Relationship="Self.FK_CompanyProfileID" FromRole="CompanyProfile" ToRole="JobPost" />
+  </EntityType>
+  <EntityType Name="JobPost">
+    <Key>
+      <PropertyRef Name="JobPostID" />
+    </Key>
+    <Property Name="JobPostID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="JobTitle" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="JobLocationCity" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="JobLocationState" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="JobLengthInDays" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="JobDescription" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="CompanyProfileID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="CompanyProfile" Relationship="Self.FK_CompanyProfileID" FromRole="JobPost" ToRole="CompanyProfile" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <Association Name="FK_CompanyProfileID">
+    <End Role="CompanyProfile" Type="Self.CompanyProfile" Multiplicity="1" />
+    <End Role="JobPost" Type="Self.JobPost" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CompanyProfile">
+        <PropertyRef Name="CompanyProfileID" />
+      </Principal>
+      <Dependent Role="JobPost">
+        <PropertyRef Name="CompanyProfileID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="JobPostingEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CompanyProfiles" EntityType="Self.CompanyProfile" />
+    <EntitySet Name="JobPosts" EntityType="Self.JobPost" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <AssociationSet Name="FK_CompanyProfileID" Association="Self.FK_CompanyProfileID">
+      <End Role="CompanyProfile" EntitySet="CompanyProfiles" />
+      <End Role="JobPost" EntitySet="JobPosts" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\InClassExercise0924\InClassExercise0924\bin\Debug\InClassExercise0924.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\InClassExercise0924\InClassExercise0924\bin\Debug\InClassExercise0924.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\InClassExercise0924\InClassExercise0924\bin\Debug\InClassExercise0924.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\InClassExercise0924\InClassExercise0924\obj\Debug\InClassExercise0924.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\InClassExercise0924\InClassExercise0924\obj\Debug\InClassExercise0924.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\InClassExercise0924\InClassExercise0924\obj\Debug\InClassExercise0924.pdb

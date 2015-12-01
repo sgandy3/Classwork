@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Dictionary1006\Dictionary1006\bin\Debug\Dictionary1006.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Dictionary1006\Dictionary1006\bin\Debug\Dictionary1006.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Dictionary1006\Dictionary1006\bin\Debug\Dictionary1006.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Dictionary1006\Dictionary1006\obj\Debug\Dictionary1006.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Dictionary1006\Dictionary1006\obj\Debug\Dictionary1006.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Dictionary1006\Dictionary1006\obj\Debug\Dictionary1006.pdb

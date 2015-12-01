@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="UserProfileModelStoreContainer" CdmEntityContainer="UserProfileEntities">
+    <EntitySetMapping Name="Ethnicities">
+      <EntityTypeMapping TypeName="UserProfileModel.Ethnicity">
+        <MappingFragment StoreEntitySet="Ethnicity">
+          <ScalarProperty Name="EthnicityID" ColumnName="EthnicityID" />
+          <ScalarProperty Name="Asian" ColumnName="Asian" />
+          <ScalarProperty Name="African" ColumnName="African" />
+          <ScalarProperty Name="Caucasian" ColumnName="Caucasian" />
+          <ScalarProperty Name="EasternEurope" ColumnName="EasternEurope" />
+          <ScalarProperty Name="EastIndian" ColumnName="EastIndian" />
+          <ScalarProperty Name="Hispanic" ColumnName="Hispanic" />
+          <ScalarProperty Name="MiddleEastern" ColumnName="MiddleEastern" />
+          <ScalarProperty Name="NativeAmerican" ColumnName="NativeAmerican" />
+          <ScalarProperty Name="PacificIslander" ColumnName="PacificIslander" />
+          <ScalarProperty Name="Other" ColumnName="Other" />
+          <ScalarProperty Name="NoAnswer" ColumnName="NoAnswer" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Experiences">
+      <EntityTypeMapping TypeName="UserProfileModel.Experience">
+        <MappingFragment StoreEntitySet="Experience">
+          <ScalarProperty Name="ExperienceID" ColumnName="ExperienceID" />
+          <ScalarProperty Name="NoExperience" ColumnName="NoExperience" />
+          <ScalarProperty Name="SomeExperience" ColumnName="SomeExperience" />
+          <ScalarProperty Name="Experienced" ColumnName="Experienced" />
+          <ScalarProperty Name="VeryExperienced" ColumnName="VeryExperienced" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Genders">
+      <EntityTypeMapping TypeName="UserProfileModel.Gender">
+        <MappingFragment StoreEntitySet="Gender">
+          <ScalarProperty Name="GenderID" ColumnName="GenderID" />
+          <ScalarProperty Name="Female" ColumnName="Female" />
+          <ScalarProperty Name="Male" ColumnName="Male" />
+          <ScalarProperty Name="Neutral" ColumnName="Neutral" />
+          <ScalarProperty Name="Other" ColumnName="Other" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Genres">
+      <EntityTypeMapping TypeName="UserProfileModel.Genre">
+        <MappingFragment StoreEntitySet="Genres">
+          <ScalarProperty Name="GenreID" ColumnName="GenreID" />
+          <ScalarProperty Name="Acting" ColumnName="Acting" />
+          <ScalarProperty Name="Art" ColumnName="Art" />
+          <ScalarProperty Name="Bodypaint" ColumnName="Bodypaint" />
+          <ScalarProperty Name="Cosplay" ColumnName="Cosplay" />
+          <ScalarProperty Name="Dance" ColumnName="Dance" />
+          <ScalarProperty Name="Editorial" ColumnName="Editorial" />
+          <ScalarProperty Name="Erotic" ColumnName="Erotic" />
+          <ScalarProperty Name="Fashion" ColumnName="Fashion" />
+          <ScalarProperty Name="Fetich" ColumnName="Fetich" />
+          <ScalarProperty Name="FitModeling" ColumnName="FitModeling" />
+          <ScalarProperty Name="Fitness" ColumnName="Fitness" />
+          <ScalarProperty Name="Glamour" ColumnName="Glamour" />
+          <ScalarProperty Name="HairMakeup" ColumnName="HairMakeup" />
+          <ScalarProperty Name="Lifestyle" ColumnName="Lifestyle" />
+          <ScalarProperty Name="Lingerie" ColumnName="Lingerie" />
+          <ScalarProperty Name="PinUp" ColumnName="PinUp" />
+          <ScalarProperty Name="Pregnancy" ColumnName="Pregnancy" />
+          <ScalarProperty Name="Promotional" ColumnName="Promotional" />
+          <ScalarProperty Name="Runway" ColumnName="Runway" />
+          <ScalarProperty Name="SpokespersonHost" ColumnName="SpokespersonHost" />
+          <ScalarProperty Name="Sports" ColumnName="Sports" />
+          <ScalarProperty Name="Stunts" ColumnName="Stunts" />
+          <ScalarProperty Name="Swimwear" ColumnName="Swimwear" />
+          <ScalarProperty Name="Underwater" ColumnName="Underwater" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Profiles">
+      <EntityTypeMapping TypeName="UserProfileModel.Profile">
+        <MappingFragment StoreEntitySet="Profile">
+          <ScalarProperty Name="ProfileID" ColumnName="ProfileID" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="AgeRange" ColumnName="AgeRange" />
+          <ScalarProperty Name="Height" ColumnName="Height" />
+          <ScalarProperty Name="Weight" ColumnName="Weight" />
+          <ScalarProperty Name="Bust" ColumnName="Bust" />
+          <ScalarProperty Name="Waist" ColumnName="Waist" />
+          <ScalarProperty Name="Dress" ColumnName="Dress" />
+          <ScalarProperty Name="Hips" ColumnName="Hips" />
+          <ScalarProperty Name="Cup" ColumnName="Cup" />
+          <ScalarProperty Name="Shoe" ColumnName="Shoe" />
+          <ScalarProperty Name="ProfilePictureURL" ColumnName="ProfilePictureURL" />
+          <ScalarProperty Name="ProfileVideoURL" ColumnName="ProfileVideoURL" />
+          <ScalarProperty Name="EthnicityID" ColumnName="EthnicityID" />
+          <ScalarProperty Name="GenreID" ColumnName="GenreID" />
+          <ScalarProperty Name="ExperienceID" ColumnName="ExperienceID" />
+          <ScalarProperty Name="GenderID" ColumnName="GenderID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="UserProfileModel.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

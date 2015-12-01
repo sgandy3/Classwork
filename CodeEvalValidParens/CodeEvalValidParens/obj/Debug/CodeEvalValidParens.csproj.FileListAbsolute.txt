@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalValidParens\CodeEvalValidParens\bin\Debug\CodeEvalValidParens.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\CodeEvalValidParens\CodeEvalValidParens\obj\Debug\CodeEvalValidParens.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\CodeEvalValidParens\CodeEvalValidParens\bin\Debug\CodeEvalValidParens.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\CodeEvalValidParens\CodeEvalValidParens\bin\Debug\CodeEvalValidParens.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\CodeEvalValidParens\CodeEvalValidParens\obj\Debug\CodeEvalValidParens.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\CodeEvalValidParens\CodeEvalValidParens\obj\Debug\CodeEvalValidParens.pdb

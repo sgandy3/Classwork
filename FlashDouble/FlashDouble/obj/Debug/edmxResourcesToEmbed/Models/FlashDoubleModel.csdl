@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="UserProfileModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Ethnicity">
+    <Key>
+      <PropertyRef Name="EthnicityID" />
+    </Key>
+    <Property Name="EthnicityID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Asian" Type="Boolean" />
+    <Property Name="African" Type="Boolean" />
+    <Property Name="Caucasian" Type="Boolean" />
+    <Property Name="EasternEurope" Type="Boolean" />
+    <Property Name="EastIndian" Type="Boolean" />
+    <Property Name="Hispanic" Type="Boolean" />
+    <Property Name="MiddleEastern" Type="Boolean" />
+    <Property Name="NativeAmerican" Type="Boolean" Nullable="false" />
+    <Property Name="PacificIslander" Type="Boolean" />
+    <Property Name="Other" Type="Boolean" />
+    <Property Name="NoAnswer" Type="Boolean" />
+    <NavigationProperty Name="Profiles" Relationship="Self.FK_EthnicityID" FromRole="Ethnicity" ToRole="Profile" />
+  </EntityType>
+  <EntityType Name="Experience">
+    <Key>
+      <PropertyRef Name="ExperienceID" />
+    </Key>
+    <Property Name="ExperienceID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NoExperience" Type="Boolean" />
+    <Property Name="SomeExperience" Type="Boolean" />
+    <Property Name="Experienced" Type="Boolean" />
+    <Property Name="VeryExperienced" Type="Boolean" />
+    <NavigationProperty Name="Profiles" Relationship="Self.FK_ExperienceID" FromRole="Experience" ToRole="Profile" />
+  </EntityType>
+  <EntityType Name="Gender">
+    <Key>
+      <PropertyRef Name="GenderID" />
+    </Key>
+    <Property Name="GenderID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Female" Type="Boolean" />
+    <Property Name="Male" Type="Boolean" />
+    <Property Name="Neutral" Type="Boolean" />
+    <Property Name="Other" Type="Boolean" />
+    <NavigationProperty Name="Profiles" Relationship="Self.FK_Gender" FromRole="Gender" ToRole="Profile" />
+  </EntityType>
+  <EntityType Name="Genre">
+    <Key>
+      <PropertyRef Name="GenreID" />
+    </Key>
+    <Property Name="GenreID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Acting" Type="Boolean" />
+    <Property Name="Art" Type="Boolean" />
+    <Property Name="Bodypaint" Type="Boolean" />
+    <Property Name="Cosplay" Type="Boolean" />
+    <Property Name="Dance" Type="Boolean" />
+    <Property Name="Editorial" Type="Boolean" />
+    <Property Name="Erotic" Type="Boolean" />
+    <Property Name="Fashion" Type="Boolean" />
+    <Property Name="Fetich" Type="Boolean" />
+    <Property Name="FitModeling" Type="Boolean" />
+    <Property Name="Fitness" Type="Boolean" />
+    <Property Name="Glamour" Type="Boolean" />
+    <Property Name="HairMakeup" Type="Boolean" />
+    <Property Name="Lifestyle" Type="Boolean" />
+    <Property Name="Lingerie" Type="Boolean" />
+    <Property Name="PinUp" Type="Boolean" />
+    <Property Name="Pregnancy" Type="Boolean" />
+    <Property Name="Promotional" Type="Boolean" />
+    <Property Name="Runway" Type="Boolean" />
+    <Property Name="SpokespersonHost" Type="Boolean" />
+    <Property Name="Sports" Type="Boolean" />
+    <Property Name="Stunts" Type="Boolean" />
+    <Property Name="Swimwear" Type="Boolean" />
+    <Property Name="Underwater" Type="Boolean" />
+    <NavigationProperty Name="Profiles" Relationship="Self.FK_GenreID" FromRole="Genres" ToRole="Profile" />
+  </EntityType>
+  <EntityType Name="Profile">
+    <Key>
+      <PropertyRef Name="ProfileID" />
+    </Key>
+    <Property Name="ProfileID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="LastName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="AgeRange" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Height" Type="Int32" Nullable="false" />
+    <Property Name="Weight" Type="Int32" Nullable="false" />
+    <Property Name="Bust" Type="Int32" />
+    <Property Name="Waist" Type="Int32" />
+    <Property Name="Dress" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Hips" Type="Int32" />
+    <Property Name="Cup" Type="Int32" />
+    <Property Name="Shoe" Type="Double" Nullable="false" />
+    <Property Name="ProfilePictureURL" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="ProfileVideoURL" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="EthnicityID" Type="Int32" Nullable="false" />
+    <Property Name="GenreID" Type="Int32" Nullable="false" />
+    <Property Name="ExperienceID" Type="Int32" Nullable="false" />
+    <Property Name="GenderID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Ethnicity" Relationship="Self.FK_EthnicityID" FromRole="Profile" ToRole="Ethnicity" />
+    <NavigationProperty Name="Experience" Relationship="Self.FK_ExperienceID" FromRole="Profile" ToRole="Experience" />
+    <NavigationProperty Name="Gender" Relationship="Self.FK_Gender" FromRole="Profile" ToRole="Gender" />
+    <NavigationProperty Name="Genre" Relationship="Self.FK_GenreID" FromRole="Profile" ToRole="Genres" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <Association Name="FK_EthnicityID">
+    <End Role="Ethnicity" Type="Self.Ethnicity" Multiplicity="1" />
+    <End Role="Profile" Type="Self.Profile" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ethnicity">
+        <PropertyRef Name="EthnicityID" />
+      </Principal>
+      <Dependent Role="Profile">
+        <PropertyRef Name="EthnicityID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ExperienceID">
+    <End Role="Experience" Type="Self.Experience" Multiplicity="1" />
+    <End Role="Profile" Type="Self.Profile" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Experience">
+        <PropertyRef Name="ExperienceID" />
+      </Principal>
+      <Dependent Role="Profile">
+        <PropertyRef Name="ExperienceID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Gender">
+    <End Role="Gender" Type="Self.Gender" Multiplicity="1" />
+    <End Role="Profile" Type="Self.Profile" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Gender">
+        <PropertyRef Name="GenderID" />
+      </Principal>
+      <Dependent Role="Profile">
+        <PropertyRef Name="GenderID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_GenreID">
+    <End Role="Genres" Type="Self.Genre" Multiplicity="1" />
+    <End Role="Profile" Type="Self.Profile" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Genres">
+        <PropertyRef Name="GenreID" />
+      </Principal>
+      <Dependent Role="Profile">
+        <PropertyRef Name="GenreID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="UserProfileEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Ethnicities" EntityType="Self.Ethnicity" />
+    <EntitySet Name="Experiences" EntityType="Self.Experience" />
+    <EntitySet Name="Genders" EntityType="Self.Gender" />
+    <EntitySet Name="Genres" EntityType="Self.Genre" />
+    <EntitySet Name="Profiles" EntityType="Self.Profile" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <AssociationSet Name="FK_EthnicityID" Association="Self.FK_EthnicityID">
+      <End Role="Ethnicity" EntitySet="Ethnicities" />
+      <End Role="Profile" EntitySet="Profiles" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ExperienceID" Association="Self.FK_ExperienceID">
+      <End Role="Experience" EntitySet="Experiences" />
+      <End Role="Profile" EntitySet="Profiles" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Gender" Association="Self.FK_Gender">
+      <End Role="Gender" EntitySet="Genders" />
+      <End Role="Profile" EntitySet="Profiles" />
+    </AssociationSet>
+    <AssociationSet Name="FK_GenreID" Association="Self.FK_GenreID">
+      <End Role="Genres" EntitySet="Genres" />
+      <End Role="Profile" EntitySet="Profiles" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

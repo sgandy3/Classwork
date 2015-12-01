@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConwaysGame\ConwaysGame\bin\Debug\ConwaysGame.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConwaysGame\ConwaysGame\bin\Debug\ConwaysGame.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConwaysGame\ConwaysGame\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConwaysGame\ConwaysGame\obj\Debug\ConwaysGame.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConwaysGame\ConwaysGame\obj\Debug\ConwaysGame.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConwaysGame\ConwaysGame\obj\Debug\ConwaysGame.pdb

@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalWordReverse\CodeEvalWordReverse\bin\Debug\CodeEvalWordReverse.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalWordReverse\CodeEvalWordReverse\bin\Debug\CodeEvalWordReverse.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalWordReverse\CodeEvalWordReverse\bin\Debug\CodeEvalWordReverse.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalWordReverse\CodeEvalWordReverse\obj\Debug\CodeEvalWordReverse.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalWordReverse\CodeEvalWordReverse\obj\Debug\CodeEvalWordReverse.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalWordReverse\CodeEvalWordReverse\obj\Debug\CodeEvalWordReverse.pdb

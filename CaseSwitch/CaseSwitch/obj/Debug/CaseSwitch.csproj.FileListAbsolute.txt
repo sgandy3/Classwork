@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CaseSwitch\CaseSwitch\bin\Debug\CaseSwitch.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CaseSwitch\CaseSwitch\bin\Debug\CaseSwitch.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CaseSwitch\CaseSwitch\bin\Debug\CaseSwitch.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CaseSwitch\CaseSwitch\obj\Debug\CaseSwitch.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CaseSwitch\CaseSwitch\obj\Debug\CaseSwitch.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CaseSwitch\CaseSwitch\obj\Debug\CaseSwitch.pdb

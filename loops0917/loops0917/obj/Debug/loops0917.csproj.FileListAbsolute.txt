@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\loops0917\loops0917\bin\Debug\loops0917.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\loops0917\loops0917\bin\Debug\loops0917.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\loops0917\loops0917\bin\Debug\loops0917.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\loops0917\loops0917\obj\Debug\loops0917.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\loops0917\loops0917\obj\Debug\loops0917.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\loops0917\loops0917\obj\Debug\loops0917.pdb

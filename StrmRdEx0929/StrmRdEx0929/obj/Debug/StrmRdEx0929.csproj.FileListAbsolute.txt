@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StrmRdEx0929\StrmRdEx0929\bin\Debug\StrmRdEx0929.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\StrmRdEx0929\StrmRdEx0929\bin\Debug\StrmRdEx0929.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\StrmRdEx0929\StrmRdEx0929\bin\Debug\StrmRdEx0929.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\StrmRdEx0929\StrmRdEx0929\obj\Debug\StrmRdEx0929.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\StrmRdEx0929\StrmRdEx0929\obj\Debug\StrmRdEx0929.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\StrmRdEx0929\StrmRdEx0929\obj\Debug\StrmRdEx0929.pdb

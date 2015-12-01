@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalLowercase\CodeEvalLowercase\bin\Debug\CodeEvalLowercase.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalLowercase\CodeEvalLowercase\bin\Debug\CodeEvalLowercase.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalLowercase\CodeEvalLowercase\bin\Debug\CodeEvalLowercase.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalLowercase\CodeEvalLowercase\obj\Debug\CodeEvalLowercase.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalLowercase\CodeEvalLowercase\obj\Debug\CodeEvalLowercase.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalLowercase\CodeEvalLowercase\obj\Debug\CodeEvalLowercase.pdb

@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TrialStuff\TrialStuff\bin\Debug\TrialStuff.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TrialStuff\TrialStuff\bin\Debug\TrialStuff.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TrialStuff\TrialStuff\bin\Debug\TrialStuff.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TrialStuff\TrialStuff\obj\Debug\TrialStuff.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TrialStuff\TrialStuff\obj\Debug\TrialStuff.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TrialStuff\TrialStuff\obj\Debug\TrialStuff.pdb

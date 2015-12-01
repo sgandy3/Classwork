@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\InClassQueueExercise1002\InClassQueueExercise1002\bin\Debug\InClassQueueExercise1002.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\InClassQueueExercise1002\InClassQueueExercise1002\bin\Debug\InClassQueueExercise1002.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\InClassQueueExercise1002\InClassQueueExercise1002\bin\Debug\InClassQueueExercise1002.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\InClassQueueExercise1002\InClassQueueExercise1002\obj\Debug\InClassQueueExercise1002.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\InClassQueueExercise1002\InClassQueueExercise1002\obj\Debug\InClassQueueExercise1002.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\InClassQueueExercise1002\InClassQueueExercise1002\obj\Debug\InClassQueueExercise1002.pdb

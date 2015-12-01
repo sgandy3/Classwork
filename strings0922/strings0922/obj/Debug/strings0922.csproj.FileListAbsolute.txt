@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\strings0922\strings0922\bin\Debug\strings0922.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\strings0922\strings0922\bin\Debug\strings0922.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\strings0922\strings0922\bin\Debug\strings0922.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\strings0922\strings0922\obj\Debug\strings0922.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\strings0922\strings0922\obj\Debug\strings0922.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\strings0922\strings0922\obj\Debug\strings0922.csprojResolveAssemblyReference.cache

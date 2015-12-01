@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ListExercise1001\ListExercise1001\bin\Debug\ListExercise1001.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ListExercise1001\ListExercise1001\bin\Debug\ListExercise1001.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ListExercise1001\ListExercise1001\bin\Debug\ListExercise1001.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ListExercise1001\ListExercise1001\obj\Debug\ListExercise1001.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ListExercise1001\ListExercise1001\obj\Debug\ListExercise1001.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ListExercise1001\ListExercise1001\obj\Debug\ListExercise1001.pdb

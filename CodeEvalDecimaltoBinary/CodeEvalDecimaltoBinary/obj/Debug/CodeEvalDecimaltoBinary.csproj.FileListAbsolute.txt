@@ -1,0 +1,5 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalDecimaltoBinary\CodeEvalDecimaltoBinary\bin\Debug\CodeEvalDecimaltoBinary.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalDecimaltoBinary\CodeEvalDecimaltoBinary\bin\Debug\CodeEvalDecimaltoBinary.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalDecimaltoBinary\CodeEvalDecimaltoBinary\bin\Debug\CodeEvalDecimaltoBinary.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalDecimaltoBinary\CodeEvalDecimaltoBinary\obj\Debug\CodeEvalDecimaltoBinary.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalDecimaltoBinary\CodeEvalDecimaltoBinary\obj\Debug\CodeEvalDecimaltoBinary.pdb

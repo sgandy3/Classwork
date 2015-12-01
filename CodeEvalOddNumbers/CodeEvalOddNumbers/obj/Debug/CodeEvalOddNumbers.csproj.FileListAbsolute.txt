@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalOddNumbers\CodeEvalOddNumbers\bin\Debug\CodeEvalOddNumbers.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalOddNumbers\CodeEvalOddNumbers\bin\Debug\CodeEvalOddNumbers.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalOddNumbers\CodeEvalOddNumbers\bin\Debug\CodeEvalOddNumbers.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalOddNumbers\CodeEvalOddNumbers\obj\Debug\CodeEvalOddNumbers.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalOddNumbers\CodeEvalOddNumbers\obj\Debug\CodeEvalOddNumbers.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalOddNumbers\CodeEvalOddNumbers\obj\Debug\CodeEvalOddNumbers.pdb

@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Concatenate0922\Concatenate0922\bin\Debug\Concatenate0922.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Concatenate0922\Concatenate0922\bin\Debug\Concatenate0922.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Concatenate0922\Concatenate0922\bin\Debug\Concatenate0922.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Concatenate0922\Concatenate0922\obj\Debug\Concatenate0922.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Concatenate0922\Concatenate0922\obj\Debug\Concatenate0922.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Concatenate0922\Concatenate0922\obj\Debug\Concatenate0922.pdb

@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalWordToDigit\CodeEvalWordToDigit\bin\Debug\CodeEvalWordToDigit.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalWordToDigit\CodeEvalWordToDigit\bin\Debug\CodeEvalWordToDigit.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalWordToDigit\CodeEvalWordToDigit\bin\Debug\CodeEvalWordToDigit.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalWordToDigit\CodeEvalWordToDigit\obj\Debug\CodeEvalWordToDigit.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalWordToDigit\CodeEvalWordToDigit\obj\Debug\CodeEvalWordToDigit.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEvalWordToDigit\CodeEvalWordToDigit\obj\Debug\CodeEvalWordToDigit.pdb

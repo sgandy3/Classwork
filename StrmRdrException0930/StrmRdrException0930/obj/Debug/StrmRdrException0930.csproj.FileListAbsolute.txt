@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StrmRdrException0930\StrmRdrException0930\bin\Debug\StrmRdrException0930.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StrmRdrException0930\StrmRdrException0930\bin\Debug\StrmRdrException0930.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StrmRdrException0930\StrmRdrException0930\bin\Debug\StrmRdrException0930.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StrmRdrException0930\StrmRdrException0930\obj\Debug\StrmRdrException0930.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StrmRdrException0930\StrmRdrException0930\obj\Debug\StrmRdrException0930.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\StrmRdrException0930\StrmRdrException0930\obj\Debug\StrmRdrException0930.pdb

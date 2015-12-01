@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DictionaryCoatCheck1006\DictionaryCoatCheck1006\bin\Debug\DictionaryCoatCheck1006.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DictionaryCoatCheck1006\DictionaryCoatCheck1006\bin\Debug\DictionaryCoatCheck1006.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DictionaryCoatCheck1006\DictionaryCoatCheck1006\bin\Debug\DictionaryCoatCheck1006.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DictionaryCoatCheck1006\DictionaryCoatCheck1006\obj\Debug\DictionaryCoatCheck1006.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DictionaryCoatCheck1006\DictionaryCoatCheck1006\obj\Debug\DictionaryCoatCheck1006.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DictionaryCoatCheck1006\DictionaryCoatCheck1006\obj\Debug\DictionaryCoatCheck1006.pdb

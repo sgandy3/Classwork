@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\RowsColumns\RowsColumns\bin\Debug\RowsColumns.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\RowsColumns\RowsColumns\bin\Debug\RowsColumns.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\RowsColumns\RowsColumns\bin\Debug\RowsColumns.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\RowsColumns\RowsColumns\obj\Debug\RowsColumns.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\RowsColumns\RowsColumns\obj\Debug\RowsColumns.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\RowsColumns\RowsColumns\obj\Debug\RowsColumns.pdb

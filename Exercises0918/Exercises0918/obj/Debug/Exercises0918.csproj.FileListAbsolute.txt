@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Exercises0918\Exercises0918\bin\Debug\Exercises0918.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Exercises0918\Exercises0918\bin\Debug\Exercises0918.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Exercises0918\Exercises0918\bin\Debug\Exercises0918.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Exercises0918\Exercises0918\obj\Debug\Exercises0918.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Exercises0918\Exercises0918\obj\Debug\Exercises0918.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Exercises0918\Exercises0918\obj\Debug\Exercises0918.pdb

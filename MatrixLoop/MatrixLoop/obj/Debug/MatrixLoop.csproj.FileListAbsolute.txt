@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MatrixLoop\MatrixLoop\bin\Debug\MatrixLoop.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MatrixLoop\MatrixLoop\bin\Debug\MatrixLoop.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MatrixLoop\MatrixLoop\bin\Debug\MatrixLoop.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MatrixLoop\MatrixLoop\obj\Debug\MatrixLoop.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MatrixLoop\MatrixLoop\obj\Debug\MatrixLoop.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MatrixLoop\MatrixLoop\obj\Debug\MatrixLoop.pdb

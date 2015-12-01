@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PrintTextFunctions0921\PrintTextFunctions0921\bin\Debug\PrintTextFunctions0921.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PrintTextFunctions0921\PrintTextFunctions0921\bin\Debug\PrintTextFunctions0921.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PrintTextFunctions0921\PrintTextFunctions0921\bin\Debug\PrintTextFunctions0921.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PrintTextFunctions0921\PrintTextFunctions0921\obj\Debug\PrintTextFunctions0921.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PrintTextFunctions0921\PrintTextFunctions0921\obj\Debug\PrintTextFunctions0921.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PrintTextFunctions0921\PrintTextFunctions0921\obj\Debug\PrintTextFunctions0921.pdb

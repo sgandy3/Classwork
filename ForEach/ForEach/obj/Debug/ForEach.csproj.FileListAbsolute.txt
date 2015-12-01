@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ForEach\ForEach\bin\Debug\ForEach.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ForEach\ForEach\bin\Debug\ForEach.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ForEach\ForEach\bin\Debug\ForEach.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ForEach\ForEach\obj\Debug\ForEach.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ForEach\ForEach\obj\Debug\ForEach.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ForEach\ForEach\obj\Debug\ForEach.pdb
