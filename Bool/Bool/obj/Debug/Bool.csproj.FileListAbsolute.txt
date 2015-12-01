@@ -1,6 +1,0 @@
-c:\users\wecancodeit\documents\visual studio 2015\Projects\Bool\Bool\bin\Debug\Bool.exe.config
-c:\users\wecancodeit\documents\visual studio 2015\Projects\Bool\Bool\obj\Debug\Bool.csprojResolveAssemblyReference.cache
-c:\users\wecancodeit\documents\visual studio 2015\Projects\Bool\Bool\bin\Debug\Bool.exe
-c:\users\wecancodeit\documents\visual studio 2015\Projects\Bool\Bool\bin\Debug\Bool.pdb
-c:\users\wecancodeit\documents\visual studio 2015\Projects\Bool\Bool\obj\Debug\Bool.exe
-c:\users\wecancodeit\documents\visual studio 2015\Projects\Bool\Bool\obj\Debug\Bool.pdb

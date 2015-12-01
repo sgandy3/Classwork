@@ -1,6 +1,0 @@
-c:\users\wecancodeit\documents\visual studio 2015\Projects\Arrays0616\Arrays0616\bin\Debug\Arrays0616.exe.config
-c:\users\wecancodeit\documents\visual studio 2015\Projects\Arrays0616\Arrays0616\bin\Debug\Arrays0616.exe
-c:\users\wecancodeit\documents\visual studio 2015\Projects\Arrays0616\Arrays0616\bin\Debug\Arrays0616.pdb
-c:\users\wecancodeit\documents\visual studio 2015\Projects\Arrays0616\Arrays0616\obj\Debug\Arrays0616.csprojResolveAssemblyReference.cache
-c:\users\wecancodeit\documents\visual studio 2015\Projects\Arrays0616\Arrays0616\obj\Debug\Arrays0616.exe
-c:\users\wecancodeit\documents\visual studio 2015\Projects\Arrays0616\Arrays0616\obj\Debug\Arrays0616.pdb

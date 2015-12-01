@@ -1,1 +1,0 @@
-c:\users\wecancodeit\documents\visual studio 2015\Projects\CharType\CharType\bin\Debug\CharType.exe.config

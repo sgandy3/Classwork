@@ -1,6 +1,0 @@
-c:\users\wecancodeit\documents\visual studio 2015\Projects\operatorArith\operatorArith\bin\Debug\operatorArith.exe.config
-c:\users\wecancodeit\documents\visual studio 2015\Projects\operatorArith\operatorArith\bin\Debug\operatorArith.exe
-c:\users\wecancodeit\documents\visual studio 2015\Projects\operatorArith\operatorArith\bin\Debug\operatorArith.pdb
-c:\users\wecancodeit\documents\visual studio 2015\Projects\operatorArith\operatorArith\obj\Debug\operatorArith.csprojResolveAssemblyReference.cache
-c:\users\wecancodeit\documents\visual studio 2015\Projects\operatorArith\operatorArith\obj\Debug\operatorArith.exe
-c:\users\wecancodeit\documents\visual studio 2015\Projects\operatorArith\operatorArith\obj\Debug\operatorArith.pdb

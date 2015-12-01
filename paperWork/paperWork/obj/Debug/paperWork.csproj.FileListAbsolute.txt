@@ -1,6 +1,0 @@
-c:\users\wecancodeit\documents\visual studio 2015\Projects\paperWork\paperWork\bin\Debug\paperWork.exe.config
-c:\users\wecancodeit\documents\visual studio 2015\Projects\paperWork\paperWork\bin\Debug\paperWork.exe
-c:\users\wecancodeit\documents\visual studio 2015\Projects\paperWork\paperWork\bin\Debug\paperWork.pdb
-c:\users\wecancodeit\documents\visual studio 2015\Projects\paperWork\paperWork\obj\Debug\paperWork.csprojResolveAssemblyReference.cache
-c:\users\wecancodeit\documents\visual studio 2015\Projects\paperWork\paperWork\obj\Debug\paperWork.exe
-c:\users\wecancodeit\documents\visual studio 2015\Projects\paperWork\paperWork\obj\Debug\paperWork.pdb

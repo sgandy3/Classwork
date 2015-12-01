@@ -1,5 +1,0 @@
-c:\users\wecancodeit\documents\visual studio 2015\Projects\AbnornFloat\AbnornFloat\bin\Debug\AbnornFloat.exe.config
-c:\users\wecancodeit\documents\visual studio 2015\Projects\AbnornFloat\AbnornFloat\bin\Debug\AbnornFloat.exe
-c:\users\wecancodeit\documents\visual studio 2015\Projects\AbnornFloat\AbnornFloat\bin\Debug\AbnornFloat.pdb
-c:\users\wecancodeit\documents\visual studio 2015\Projects\AbnornFloat\AbnornFloat\obj\Debug\AbnornFloat.exe
-c:\users\wecancodeit\documents\visual studio 2015\Projects\AbnornFloat\AbnornFloat\obj\Debug\AbnornFloat.pdb

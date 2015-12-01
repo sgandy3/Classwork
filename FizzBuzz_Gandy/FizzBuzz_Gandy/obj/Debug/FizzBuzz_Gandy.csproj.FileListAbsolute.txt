@@ -1,6 +1,0 @@
-c:\users\wecancodeit\documents\visual studio 2015\Projects\FizzBuzz_Gandy\FizzBuzz_Gandy\bin\Debug\FizzBuzz_Gandy.exe.config
-C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\FizzBuzz_Gandy\FizzBuzz_Gandy\obj\Debug\FizzBuzz_Gandy.csprojResolveAssemblyReference.cache
-C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\FizzBuzz_Gandy\FizzBuzz_Gandy\bin\Debug\FizzBuzz_Gandy.exe
-C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\FizzBuzz_Gandy\FizzBuzz_Gandy\bin\Debug\FizzBuzz_Gandy.pdb
-C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\FizzBuzz_Gandy\FizzBuzz_Gandy\obj\Debug\FizzBuzz_Gandy.exe
-C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\FizzBuzz_Gandy\FizzBuzz_Gandy\obj\Debug\FizzBuzz_Gandy.pdb
