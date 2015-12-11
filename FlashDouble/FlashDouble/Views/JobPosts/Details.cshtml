@@ -1,0 +1,66 @@
+﻿@model FlashDouble.Models.JobPost
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>JobPost</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.JobTitle)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.JobTitle)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.JobLocationCity)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.JobLocationCity)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.JobLocationState)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.JobLocationState)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.JobLengthInDays)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.JobLengthInDays)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.JobDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.JobDescription)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CompanyProfile.CompanyName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CompanyProfile.CompanyName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.JobPostID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

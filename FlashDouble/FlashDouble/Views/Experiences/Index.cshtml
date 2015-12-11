@@ -1,0 +1,51 @@
+﻿@model IEnumerable<FlashDouble.Models.Experience>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.NoExperience)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SomeExperience)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Experienced)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.VeryExperienced)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.NoExperience)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SomeExperience)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Experienced)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.VeryExperienced)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ExperienceID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.ExperienceID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.ExperienceID })
+        </td>
+    </tr>
+}
+
+</table>

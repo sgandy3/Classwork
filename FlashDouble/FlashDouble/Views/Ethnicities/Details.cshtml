@@ -1,0 +1,106 @@
+﻿@model FlashDouble.Models.Ethnicity
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Ethnicity</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Asian)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Asian)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.African)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.African)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Caucasian)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Caucasian)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EasternEurope)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EasternEurope)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EastIndian)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EastIndian)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Hispanic)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Hispanic)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MiddleEastern)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MiddleEastern)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NativeAmerican)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NativeAmerican)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PacificIslander)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PacificIslander)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Other)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Other)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NoAnswer)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NoAnswer)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.EthnicityID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

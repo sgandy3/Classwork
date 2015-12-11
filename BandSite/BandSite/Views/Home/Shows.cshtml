@@ -1,0 +1,45 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+   
+}
+
+<head>
+    <script src="http://maps.googleapis.com/maps/api/js"></script>
+    <script>
+function initialize() {
+  var mapProp = {
+      center: new google.maps.LatLng(41.4879042, -81.6846028),
+    zoom:12,
+    mapTypeId:google.maps.MapTypeId.ROADMAP
+  };
+  var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
+}
+google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
+    
+  
+</head>
+
+<body>
+
+    
+
+    <div class="row">
+        
+        <div class="col-md-4" style="background:purple">This is Awesome</div>
+        <div class="col-md-4" style="background:purple">This is Awesome</div>
+    </div>
+    <div>
+        <div class="row">
+            <div class="col-md-3">This is Awesome</div>
+            <div class="col-md-3" style="background:blue">This is Awesome</div>
+            <div class="col-md-3" style="background:blue">This is Awesome</div>
+            <div class="col-md-3">This is Awesome</div>
+            
+        </div>
+    </div>
+    <div id="googleMap" style="height:500px ; width:380px"></div>
+</body>
+
+
+

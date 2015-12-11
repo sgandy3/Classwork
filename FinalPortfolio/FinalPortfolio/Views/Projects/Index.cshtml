@@ -1,0 +1,118 @@
+﻿@model IEnumerable<FinalPortfolio.Models.Project>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="row" style="background-color:lightgray;">
+    <div class="col-md-5">
+        <img src="~/Content/Images/stephtoon2.png" class="img-responsive" />
+    </div>
+    <div class="col-md-7">
+    <div class="row">
+        <div class="col-md-12">
+            <h1 style="padding:55px;">Checkout my projects!</h1>
+        </div>
+    </div>
+
+        <div id="myCarousel" class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+                <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                <li data-target="#myCarousel" data-slide-to="1"></li>
+                <li data-target="#myCarousel" data-slide-to="2"></li>
+                <li data-target="#myCarousel" data-slide-to="3"></li>
+
+            </ol>
+
+            <!-- Wrapper for slides -->
+
+
+            <div class="carousel-inner" role="listbox">
+                <div class="item active">
+                    <a href="http://flashdouble.toribeth.com/" target="_blank">
+                        <img src="~/Content/Images/Flashdouble.jpg" style="height:350px;" />
+                    </a>
+                </div>
+
+                <div class="item">
+                    <a href="https://github.com/sgandy3/Movie/blob/master/Stuff.sln" target="_blank">
+                        <img src="~/Content/Images/Movie.jpg" />
+                    </a>
+                    </div>
+                </div>
+
+                <div class="item">
+                    <a href="https://github.com/sgandy3/FizzBuzz/blob/master/FizzBuzz/Program.cs" target="_blank">
+                       <!-- <img src="~/Content/Images/FizzBuzz.jpg" />-->
+                    </a>
+                    
+                </div>
+            </div>
+
+            <!-- Left and right controls -->
+            <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+
+
+
+        </div><!--col-7-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+</div>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.GitHubLink)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Image.ImageLink)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GitHubLink)
+            </td>
+            <td>
+                <img style="height:100px; width:100px;" src="@Html.DisplayFor(modelItem => item.Image.ImageLink)">
+            </td>
+        </tr>
+    }
+
+</table>

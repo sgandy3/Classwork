@@ -1,0 +1,84 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link href='https://fonts.googleapis.com/css?family=Satisfy' rel='stylesheet' type='text/css' />
+    <style>
+        h1{
+            font-family: 'Satisfy', cursive;
+            font-size:60px;
+            font-weight:900;
+            color:#3d005b;
+        }
+
+        p{
+            font-size:medium;
+        }
+
+        img {
+            width:100%;
+            height:auto;
+        }
+        .navbar-inverse .navbar-nav > li > a {
+            color:#3d005b;
+            font-size:larger;
+        }
+        .navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-brand:focus {
+            color:black;
+        }
+        .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
+            color: pink;
+           
+        }
+
+    </style>
+
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top" style="background-color:white; border:none;">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Stephanie Gandy", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("About", "About", "Home")</li>  
+                    <li><!--linkText, actionName, controllerName, routeValues, htmlAttributes-->
+                        @Html.ActionLink("Projects", "Index", "Projects", new { id = "projects" }, null)</li>
+                    <li>@Html.ActionLink("Connect", "Contact", "Home")</li>
+                </ul>
+                
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <div class="row">
+                <div class="col-md-3"><p>Stephanie Gandy <font style="color:#3d005b;">| Jr. Developer</font></p></div>
+                <div class="col-md-7"></div>
+                <div class="col-md-1">
+                    <a href="https://github.com/sgandy3" target="_blank">GitHub</a>
+                </div>
+                <div class="col-md-1">
+                    <a href="https://www.linkedin.com/in/stephaniegandy" target="_blank">LinkedIn </a>
+                </div><!--md--->
+            </div><!--row-->
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
